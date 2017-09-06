@@ -1,0 +1,6 @@
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\Extensibility\bin\Debug\Extensibility.exe.config
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\Extensibility\bin\Debug\Extensibility.exe
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\Extensibility\bin\Debug\Extensibility.pdb
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\Extensibility\obj\Debug\Extensibility.csprojResolveAssemblyReference.cache
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\Extensibility\obj\Debug\Extensibility.exe
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\Extensibility\obj\Debug\Extensibility.pdb

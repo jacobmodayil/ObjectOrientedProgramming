@@ -1,0 +1,6 @@
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\WorkflowEngine\bin\Debug\WorkflowEngine.exe.config
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\WorkflowEngine\bin\Debug\WorkflowEngine.exe
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\WorkflowEngine\bin\Debug\WorkflowEngine.pdb
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\WorkflowEngine\obj\Debug\WorkflowEngine.csprojResolveAssemblyReference.cache
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\WorkflowEngine\obj\Debug\WorkflowEngine.exe
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\WorkflowEngine\obj\Debug\WorkflowEngine.pdb

@@ -1,0 +1,15 @@
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\Testability.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\Testability.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\Testability.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\Testability.UnitTests\bin\Debug\Testability.UnitTests.dll
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\Testability.UnitTests\bin\Debug\Testability.UnitTests.pdb
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\Testability.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\Testability.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\Testability.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\Testability.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\Testability.UnitTests\obj\Debug\Testability.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\Testability.UnitTests\obj\Debug\Testability.UnitTests.dll
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\Testability.UnitTests\obj\Debug\Testability.UnitTests.pdb
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\Testability.UnitTests\bin\Debug\Testability.exe
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\Testability.UnitTests\bin\Debug\Testability.pdb
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\Testability.UnitTests\bin\Debug\Testability.exe.config

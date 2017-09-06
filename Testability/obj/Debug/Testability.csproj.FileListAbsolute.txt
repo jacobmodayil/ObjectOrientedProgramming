@@ -1,0 +1,6 @@
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\Testability\bin\Debug\Testability.exe.config
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\Testability\bin\Debug\Testability.exe
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\Testability\bin\Debug\Testability.pdb
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\Testability\obj\Debug\Testability.csprojResolveAssemblyReference.cache
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\Testability\obj\Debug\Testability.exe
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\Testability\obj\Debug\Testability.pdb

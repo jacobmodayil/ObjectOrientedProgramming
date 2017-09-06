@@ -1,0 +1,6 @@
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\AbstractClasses\obj\Debug\AbstractClasses.csprojResolveAssemblyReference.cache
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\jacob\OneDrive\Documents\Visual Studio 2017\Projects\OOPS\AbstractClasses\obj\Debug\AbstractClasses.pdb
